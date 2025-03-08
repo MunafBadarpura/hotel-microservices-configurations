@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: CONFIG-HOTEL-SERVICE
+#EUREKA CLIENT CONFIG
 
 eureka:
   instance:
