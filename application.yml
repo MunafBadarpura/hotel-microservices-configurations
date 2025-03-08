@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: CONFIG-HOTEL-SERVICE
+
 eureka:
   instance:
     hostname: localhost
